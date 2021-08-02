@@ -13,6 +13,10 @@
     "typescript",
     "node-sass"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackmaster110/cra-template-sammy-libraries.git"
+  },
   "files": ["template", "template.json"],
   "description": "Sammy Libraries is a CRA template made with node 16 and which includes, typescript, react-router, and node-sass",
   "dependencies": {
